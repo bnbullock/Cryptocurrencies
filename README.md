@@ -22,34 +22,33 @@ Deliverables:
 ------------------------------------------------------------------------------------------------------------
 
 ## Results
+- The results ...
 
-
-### Random Oversampling
+### Result One
 
 ![Image1](images/1NaiveRandomOver1.png)
 
-### SMOTE Oversampling
+### Result Two
 
 ![Image2](images/2SmoteOver1.png)
 
-### Combination Over and Under Sampling
+### Result Three
 
 ![Image3](images/3ClusterCentroidsUnder1.png)
 
-### Combination SMOTEENN
+### Result Four
 
 ![Image4](images/4SmoteennOverUnder1.png)
 
-### Resampling using Balanced Random Forest Classification
+### Result Five
 
 ![Image5](images/5BalForest1.png)
 
-### Resampling using Easy Ensemble Classification
+### Result Six
 
 ![Image6](images/6Ensemble1.png)
 
 ------------------------------------------------------------------------------------------------------------
 
 ## Overall Summary
-
-
+- I summarize...
