@@ -25,7 +25,7 @@ Deliverables:
 
 ## Results
 
-- Below we can see the different steps undertaken to get to the final result
+- Below we can see the different steps undertaken to get to the final result. The data is evaluated and conditioned to arrive at the relevent attributes. We then use PCA to standardize the data and identify our principal components. Effectively, we are reducing the number of variables with the dataset, while preserving as much information as possible. We are then able to reorient the data from the original axes to the ones represented by the principal components. We are then able to cluster the data and generate the reports and visualizations that can be presented to the client.
 
 ### Preprocessing Crypto Data
 
