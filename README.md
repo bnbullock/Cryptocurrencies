@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-A very important banking client is interested in offering a new cryptocurrency investment portfolio to its customers. The company, however, has some reservations about undertaking this challenge as they do not have a good handle on the universe of cryptocurrencies in the marketplace. So, they’ve tured to us and have requested a report outlining which cryptocurrencies are available on the trading market and how they could be grouped to create a classification system for this new investment.
+A very important banking client is interested in offering a new cryptocurrency investment portfolio to its customers. The company, however, has some reservations about undertaking this challenge as they do not have a good handle on the universe of cryptocurrencies in the marketplace. So, they’ve turned to us and have requested a report outlining which cryptocurrencies are available on the trading market and how they could be grouped to create a classification system for this new investment.
 
 The data we will be working with does not support our needs exactly, so it needs to be processed to fit the different machine learning models that will allow us to provide these answers. As this is an exploratory endevour, we are not sure of the expected results, therefore, we have decided to use unsupervised machine learning and specifically Principal Component Analysis(PCA). In order to group the cryptocurrencies, we have decided to utilize a clustering algorithm and will need to analyze the best fit for our data. Finally, we will be using data visualizations to share the findings with the board.
 
@@ -25,7 +25,7 @@ Deliverables:
 
 ## Results
 
-- Below we can see the different steps undertaken to get to the final result. The data is evaluated and conditioned to arrive at the relevent attributes. We then use PCA to standardize the data and identify our principal components. Effectively, we are reducing the number of variables with the dataset, while preserving as much information as possible. We are then able to reorient the data from the original axes to the ones represented by the principal components. This allows us to cluster the data and generate the reports and visualizations that can then be presented to the client. the last 3 charts are interactive charts/reports and are intended for direct presentation to the client.
+- Below we can see the different steps undertaken to get to the final result. The data is evaluated and conditioned to arrive at the relevent attributes. We then use PCA to standardize the data and identify our principal components. Effectively, we are reducing the number of variables within the dataset, while preserving as much information as possible. We are then able to reorient the data from the original axes to the ones represented by the principal components. This allows us to cluster the data and generate the reports and visualizations that can then be presented to the client. The last 3 charts are interactive charts/reports and are intended for direct presentation to the client.
 
 ### Preprocessing Crypto Data
 
